@@ -22,7 +22,6 @@
 
 <div align="center">
     <h3> 🔨 Lenguajes Y Herramientas</h3>
-    <div>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="" width="40" height="40">
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="" width="40" height="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40">
@@ -34,6 +33,4 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="" width="40" height="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="" width="40" height="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="" width="40" height="40">
-
-    </div>
 </div>
