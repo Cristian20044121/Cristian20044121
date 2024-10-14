@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="" width="200">
+    <img src="https://www.vhv.rs/dpng/d/590-5901286_linux-logo-hd-png-download.png" alt="" width="200">
     <h1 align="center">Hola 👋, Yo soy Cristian </h1>
     <h3 align="center">
         Soy un estudiante de Desarrollo Web con un enfoque apasionado en crear soluciones digitales innovadoras. Poseo un certificado en Desarrollo Web Full Stack y actualmente me encuentro estudiando Programación de Aplicaciones y Servicios para la Nube. Mi formación y experiencia me han brindado sólidos conocimientos en HTML, CSS, Bootstrap, JavaScript, Node.js, Express, Git y Github.
