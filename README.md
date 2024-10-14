@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://c4.wallpaperflare.com/wallpaper/913/616/944/technology-programming-coding-python-wallpaper-preview.jpg" alt="" width="200">
+    <img src="https://c4.wallpaperflare.com/wallpaper/913/616/944/technology-programming-coding-python-wallpaper-preview.jpg" alt="" width="800">
     <h1 align="center">Hola 👋, Yo soy Cristian </h1>
     <h3 align="center">
         Soy un estudiante de Desarrollo Web con un enfoque apasionado en crear soluciones digitales innovadoras. Poseo un certificado en Desarrollo Web Full Stack y actualmente me encuentro estudiando Programación de Aplicaciones y Servicios para la Nube. Mi formación y experiencia me han brindado sólidos conocimientos en HTML, CSS, Bootstrap, JavaScript, Node.js, Express, Git y Github.
