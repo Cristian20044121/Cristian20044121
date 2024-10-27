@@ -34,6 +34,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="" width="40" height="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="" width="40" height="40">
 </div>
+<!--Languages and Tools Section-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,springboot,tailwind,bootstrap,npm,js,html,css,react,nodejs,express,mongo,git,vscode,postman,discord,linux&perline=10"  />
+</p>
+<br />
+
 ### :bar_chart: GitHub stats
 
 [i got this from a github repo: anuraghazra/github-readme-stats it was nice actually big shoutout to him]: #
