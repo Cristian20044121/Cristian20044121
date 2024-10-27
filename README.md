@@ -34,3 +34,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="" width="40" height="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="" width="40" height="40">
 </div>
+### :bar_chart: GitHub stats
+
+[i got this from a github repo: anuraghazra/github-readme-stats it was nice actually big shoutout to him]: #
+
+[![Shaunak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian20044121&count_private=true&show_icons=true&theme=dark)](https://github.com/Cristian20044121/github-readme-stats)
+
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian20044121&show_icons=true&theme=dark)
+
+ 
+</div>
