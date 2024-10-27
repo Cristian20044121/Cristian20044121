@@ -20,24 +20,11 @@
 * CV: https://drive.google.com/file/d/1lD3gAaSjNjdcfkB8_hztrW54_ZM_la05/view?usp=sharing
 * Portafolio: https://portafolio-cristian.000webhostapp.com/
 
-<div align="center">
-    <h3> 🔨 Lenguajes Y Herramientas</h3>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="" width="40" height="40">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="" width="40" height="40">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="" width="40" height="40">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="" width="40" height="40">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="" width="40" height="40">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="" width="40" height="40">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="" width="40" height="40">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="" width="40" height="40">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="" width="40" height="40">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="" width="40" height="40">
-</div>
+
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,spring,tailwind,bootstrap,npm,js,html,css,react,nodejs,express,mongo,git,vscode,postman,discord,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,spring,tailwind,bootstrap,npm,js,html,css,react,vite,nodejs,express,mongo,mysql,nextjs,git,vscode,postman,discord,linux,windows,vercel&perline=10"  />
 </p>
 <br />
 
