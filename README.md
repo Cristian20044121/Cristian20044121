@@ -38,9 +38,10 @@
 </a>
 
 [i got this from a github repo: anuraghazra/github-readme-stats it was nice actually big shoutout to him]: #
+<br><br>
 
-
+<div align="center">
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian20044121&show_icons=true&theme=dark)
-
+</div>
  
 </div>
