@@ -1,7 +1,7 @@
 
 # 🖤💻 Cristian Caro - Full Stack Developer 🔥🌌
 
-![Cristian Caro Banner](https://www.linkedin.com/in/cristian-caro-9b4040260/overlay/background-image/)  
+![Cristian Caro Banner](https://media.licdn.com/dms/image/v2/D4E16AQEy7Mhj11Uv2w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730121482049?e=1738195200&v=beta&t=Nx1t8zorOmmc1wBWe5KuuEBxwP5wyTsNbD0vT_K5DLU)  
 
 
 ---
