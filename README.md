@@ -1,7 +1,7 @@
 
 # 🖤💻 Cristian Caro - Full Stack Developer 🔥🌌
 
-![Cristian Caro Banner](https://media-private.canva.com/TDrwo/MAGUvrTDrwo/1/p.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20241026%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241026T123742Z&X-Amz-Expires=78708&X-Amz-Signature=14f1513f455e1e8b7e9d54e7bbb3d5f7b97635b0adbf33a12032794b3fb54793&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Sun%2C%2027%20Oct%202024%2010%3A29%3A30%20GMT)  
+![Cristian Caro Banner](https://www.linkedin.com/in/cristian-caro-9b4040260/overlay/background-image/)  
 
 
 ---
