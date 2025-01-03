@@ -48,7 +48,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,spring,js,npm,html,css,tailwind,bootstrap,figma,react,nextjs,vite,nodejs,express,mongo,mysql,git,vscode,postman,discord,linux,kali,windows,vercel&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=npm,html,css,tailwind,bootstrap,react,nextjs,vite,nodejs,express,mongo,git,vscode,postman,discord,linux,kali,windows,vercel&perline=10"  />
 </p>
 <br />
 
