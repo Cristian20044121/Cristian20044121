@@ -19,10 +19,10 @@
   <a href="https://www.linkedin.com/in/cristian-caro-9b4040260/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://drive.google.com/file/d/1lD3gAaSjNjdcfkB8_hztrW54_ZM_la05/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1xzp5OkqBfXLnfNa0i7EDQqcIFUCwQbv-/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/-Curriculum_Vitae-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV">
   </a>
-  <a href="https://portafolio-cristian.000webhostapp.com/" target="_blank">
+  <a href="https://portafolio-liart-zeta.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-2D2D2D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
