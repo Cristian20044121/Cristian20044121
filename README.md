@@ -34,10 +34,10 @@
 - **[LinkedIn](https://www.linkedin.com/in/cristian-caro-9b4040260/)**  
   Conecta conmigo en LinkedIn para explorar oportunidades de colaboración y red profesional.
 
-- **[Curriculum Vitae (CV)](https://drive.google.com/file/d/1lD3gAaSjNjdcfkB8_hztrW54_ZM_la05/view?usp=sharing)**  
+- **[Curriculum Vitae (CV)](https://drive.google.com/drive/u/6/home)**  
   Descarga mi CV actualizado para revisar mi experiencia y habilidades en detalle.
 
-- **[Portfolio](https://portafolio-cristian.000webhostapp.com/)**  
+- **[Portfolio](https://portafolio-liart-zeta.vercel.app/)**  
   Visita mi portafolio en línea para ver algunos de mis proyectos destacados y logros en desarrollo web.
 <br>
 
