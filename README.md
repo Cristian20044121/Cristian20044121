@@ -25,10 +25,8 @@
 ## 🧠 Quick Facts
 
 - 💻 Focus: **Web Development & Backend Services**
-- ⚙️ Stack: **JavaScript / Node.js / React / Next.js**
 - 🧩 Mindset: **Problem Solver & Optimizer**
 - 🌱 Constantly learning new technologies
-- 🚀 Interested in scalable and clean architectures
 
 ---
 
