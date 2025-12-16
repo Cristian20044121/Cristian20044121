@@ -18,7 +18,6 @@
 
 - Full Stack Developer with a knack for innovation, web wizardry, and technical problem-solving.
 - Open to opportunities both on the frontend and backend, with a deep understanding of key tools and best practices.
-- Bringing solutions with a hacker mindset, equipped for consulting and project optimization.
 
 ---
 
