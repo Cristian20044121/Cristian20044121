@@ -16,8 +16,8 @@
 
 👋 **Hello World! I'm Cristian Caro.**
 
-- Full Stack Developer with a knack for innovation, web wizardry, and technical problem-solving.
-- Open to opportunities both on the frontend and backend, with a deep understanding of key tools and best practices.
+- Full Stack Developer with knowledge in frontend and backend development, with the ability to solve complex technical problems.
+
 
 ---
 
