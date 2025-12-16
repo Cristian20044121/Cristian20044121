@@ -1,66 +1,95 @@
+<!-- ================= HEADER ================= -->
+<h1 align="center">🖤💻 Cristian Caro</h1>
 
-# 🖤💻 Cristian Caro 
+<p align="center">
+  <em>Full Stack Developer · Web · Backend · Problem Solver</em>
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7A7A7A&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;JavaScript+%7C+Node.js+%7C+React;Building+clean+and+scalable+solutions;Always+learning+%26+optimizing" />
+</p>
+
+<hr />
+
+<!-- ================= ABOUT ================= -->
+## 👾 About Me
+
+👋 **Hello World! I'm Cristian Caro.**
+
+- Full Stack Developer with a knack for innovation, web wizardry, and technical problem-solving.
+- Open to opportunities both on the frontend and backend, with a deep understanding of key tools and best practices.
+- Bringing solutions with a hacker mindset, equipped for consulting and project optimization.
 
 ---
 
-## 👾 About Me
+<!-- ================= QUICK INFO ================= -->
+## 🧠 Quick Facts
 
-+ 👋 Hello World! I'm Cristian Caro.
-- Full Stack Developer with a knack for innovation, web wizardry, and technical problem-solving.
-+ Open to opportunities both on the frontend and backend, with a deep understanding of key tools and best practices.
-+ Bringing solutions with a hacker mindset, equipped for consulting and project optimization.
+- 💻 Focus: **Web Development & Backend Services**
+- ⚙️ Stack: **JavaScript / Node.js / React / Next.js**
+- 🧩 Mindset: **Problem Solver & Optimizer**
+- 🌱 Constantly learning new technologies
+- 🚀 Interested in scalable and clean architectures
 
-# 🌐 Connect with Me
+---
+
+<!-- ================= CONNECT ================= -->
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cristian-caro-9b4040260/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://drive.google.com/file/d/1xzp5OkqBfXLnfNa0i7EDQqcIFUCwQbv-/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/-Curriculum_Vitae-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV">
+    <img src="https://img.shields.io/badge/CV-4285F4?style=flat&logo=google-drive&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://portafolio-liart-zeta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-2D2D2D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-2D2D2D?style=flat&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
+---
 
+<!-- ================= TOOLS ================= -->
+<h2 align="center">🛠️ Languages & Tools</h2>
 
-## 📂 Social Links & Portfolio
-
-- **[LinkedIn](https://www.linkedin.com/in/cristian-caro-9b4040260/)**  
-  Conecta conmigo en LinkedIn para explorar oportunidades de colaboración y red profesional.
-
-- **[Curriculum Vitae (CV)](https://drive.google.com/drive/u/6/home)**  
-  Descarga mi CV actualizado para revisar mi experiencia y habilidades en detalle.
-
-- **[Portfolio](https://portafolio-liart-zeta.vercel.app/)**  
-  Visita mi portafolio en línea para ver algunos de mis proyectos destacados y logros en desarrollo web.
-<br>
-
-
-
-
-
-<!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=npm,html,css,tailwind,bootstrap,react,nextjs,vite,nodejs,express,mongo,git,vscode,postman,discord,linux,kali,windows,vercel&perline=10"  />
+  <img width="540px" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs,vite,nodejs,express,mongo,git,vscode,postman,linux,kali,windows,vercel&perline=9" />
 </p>
-<br />
 
-### :bar_chart: GitHub stats
-<a href="https://github.com/Cristian20044121/Cristian20044121">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cristian20044121&theme=gruvbox&hide_border=true)](https://github.com/Cristian20044121" alt="Bharat's GitHub Stats Graph"/>
-</a>
-<br><br>
-<a href="https://github.com/Cristian20044121/Cristian20044121">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cristian20044121&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Bharat%20V%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
-</a>
+---
 
-[i got this from a github repo: anuraghazra/github-readme-stats it was nice actually big shoutout to him]: #
-<br><br>
+<!-- ================= ACTIVITY ================= -->
+## 📈 GitHub Activity
 
- 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cristian20044121&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cristian20044121&theme=gruvbox&hide_border=true" height="165"/>
+</p>
+
+---
+
+<!-- ================= LANGUAGES ================= -->
+## 🧩 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian20044121&layout=compact&theme=gruvbox&hide_border=true"/>
+</p>
+
+---
+
+<!-- ================= PROFILE SUMMARY ================= -->
+## 📊 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cristian20044121&theme=gruvbox&hide_border=true"/>
+</p>
+
+---
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <em>“Build clean code · Think smart · Ship value”</em>
+</p>
