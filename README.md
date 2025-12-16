@@ -37,7 +37,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cristian-caro-9b4040260/" target="_blank">
+  <a href="https://www.linkedin.com/in/cristian-caro-449860382/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
@@ -91,5 +91,5 @@
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
-  <em>“Build clean code · Think smart · Ship value”</em>
+  <em>“**************”</em>
 </p>
