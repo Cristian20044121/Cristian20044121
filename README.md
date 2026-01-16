@@ -30,25 +30,6 @@
 
 ---
 
-<!-- ================= CONNECT ================= -->
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/cristian-caro-449860382/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://drive.google.com/file/d/1xzp5OkqBfXLnfNa0i7EDQqcIFUCwQbv-/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/CV-4285F4?style=flat&logo=google-drive&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://portafolio-liart-zeta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2D2D2D?style=flat&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
-
----
-
 <!-- ================= TOOLS ================= -->
 <h2 align="center">🛠️ Languages & Tools</h2>
 
@@ -73,15 +54,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian20044121&layout=compact&theme=gruvbox&hide_border=true"/>
-</p>
-
----
-
-<!-- ================= PROFILE SUMMARY ================= -->
-## 📊 Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cristian20044121&theme=gruvbox&hide_border=true"/>
 </p>
 
 ---
